@@ -1,4 +1,4 @@
-# mi primer archivo en C
+# Mi primer archivo en C
 
 Mi primer programa en C
 >code:
@@ -8,7 +8,7 @@ Mi primer programa en C
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("Hola mi mundo, soy Kevin Peñafiel XD!\n");
 
 	return (0);
 }
