@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("Hola mi mundo, soy Kevin Peñafiel XD!\n");
 
 	return (0);
 }
